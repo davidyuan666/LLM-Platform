@@ -1,9 +1,5 @@
 # -*- encoding: utf-8 -*-
-"""
-@author: orange-crow, XuMing(xuming624@qq.com)
-@description:
-part of the code is from phidata
-"""
+
 import json
 import ssl
 from typing import Any, Optional

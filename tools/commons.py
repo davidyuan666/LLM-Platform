@@ -1,5 +1,6 @@
-from kwaiagents.tools.base import BaseResult, BaseTool
-
+'''
+kwai
+'''
 
 class NoToolResult(BaseResult):
     @property

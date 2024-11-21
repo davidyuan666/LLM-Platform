@@ -5,11 +5,7 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 from selenium.webdriver.remote.webdriver import WebDriver
 
-from vagents.vagentic.utils.html_utils import extract_hyperlinks, format_hyperlinks
-import vagents.vagentic.utils.nlp_utils as summary
-from kwaiagents.config import Config
-from kwaiagents.tools.base import BaseTool, BaseResult
-from vagents.vagentic.utils.selenium_utils import get_pagesource_with_selenium
+
 
 FILE_DIR = Path(__file__).parent.parent
 

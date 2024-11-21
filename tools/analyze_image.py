@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-@author: XuMing(xuming624@qq.com)
-@description:
-This module contains a class for reading and understanding image content using OpenAI's API.
-It uploads an image, sends it to the API, and retrieves a description of the image content.
-"""
+
 import base64
 import os
 from typing import Optional, cast

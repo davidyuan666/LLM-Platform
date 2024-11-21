@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-@author:XuMing(xuming624@qq.com)
-@description:
-This module contains a class for creating an image from a description using OpenAI's API.
-It generates a unique image name based on the prompt and the current time, downloads the image, and saves it to a specified output path.
-"""
+
 import hashlib
 import os
 import time

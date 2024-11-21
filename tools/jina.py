@@ -9,9 +9,7 @@ Jina 有2个功能：
 """
 from os import getenv
 from typing import Optional
-
 import requests
-
 from agentica.tool import Toolkit
 from agentica.utils.log import logger
 

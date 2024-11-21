@@ -2,7 +2,6 @@
 # @time:2024/9/3 10:18
 # Author:david yuan
 # @File:azure_client.py
-# @Software:VeSync
 
 
 '''

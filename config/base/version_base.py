@@ -1,4 +1,4 @@
-from typing import Dict, Any, List, Optional
+from typing import Dict, Any, List, Optional,Union
 from datetime import datetime
 import semver
 from pathlib import Path

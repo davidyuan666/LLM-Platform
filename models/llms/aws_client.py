@@ -2,7 +2,6 @@
 # @time:2024/6/12 20:18
 # Author:david yuan
 # @File:amazon_titan_text_model.py
-# @Software:VeSync
 
 import boto3
 import json
@@ -11,7 +10,6 @@ import base64
 import random
 import logging
 from botocore.exceptions import ClientError
-from vagents.vagentic.config import Config
 
 class AmazonTitanTextModelClient:
     def __init__(self, region_name="us-east-1"):
