@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+utils/llm_util.py
+models/llms/*
+.env
+config.ini
+secrets.json
+credentials.yaml
+api_keys.py
+
+# Local environment
+venv/
+.env.local
+.env.development
+.env.production
