@@ -40,3 +40,5 @@ venv/
 .env.local
 .env.development
 .env.production
+
+models/llms/llm_util.py
